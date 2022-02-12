@@ -1,0 +1,48 @@
+.home {
+    background: linear-gradient(#a2ebdb 0%,#238994 40%, #27ae60 50%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+#home {
+    background: linear-gradient(#a2ebdb 0%,#238994 40%, #27ae60 50%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+#name {
+    font-size: 50px;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.pic {
+    border-radius: 50%;
+    height: 600px;
+    width: 500px;
+}
